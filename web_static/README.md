@@ -1,8 +1,8 @@
-AirBnB clone - Web static
+#AirBnB clone - Web static
 
-Background Context
+##Background Context
 
-Web static, what?
+###Web static, what?
 Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!
 
 Before developing a big and complex web application, we will build the front end step-by-step.
@@ -18,11 +18,11 @@ During this project, you will learn how to manipulate HTML and CSS languages. HT
 
 Before starting, please fork or clone the repository AirBnB_clone from your partner if you were not the owner of the previous project.
 
-Learning Objectives
+##Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+###General
 
 What is HTML
 How to create an HTML page
